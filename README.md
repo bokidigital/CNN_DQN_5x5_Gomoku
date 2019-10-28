@@ -12,7 +12,10 @@ When user want to play with agent, please use _5x5_osc_33cnn_his_20layers_verify
 My test environment:
 
 Tensorflow: 1.14.0
+
 Keras
+
 Python 3.7
+
 Ubuntu 16.04
 
